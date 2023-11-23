@@ -1,0 +1,204 @@
+1 Early atomic physics 1
+    1.1 Introduction 1
+    1.2 Spectrum of atomic hydrogen 1
+    1.3 Bohr’s theory 3
+    1.4 Relativistic effects 5
+    1.5 Moseley and the atomic number 7
+    1.6 Radiative decay 11
+    1.7 Einstein A and B coefficients 11
+    1.8 The Zeeman effect 13
+    1.8.1 Experimental observation of the Zeeman effect 17
+    1.9 Summary of atomic units 18
+    Exercises 19
+2 The hydrogen atom 22
+    2.1 The Schrödinger equation 22
+        2.1.1 Solution of the angular equation 23
+        2.1.2 Solution of the radial equation 26
+    2.2 Transitions 29
+        2.2.1 Selection rules 30
+        2.2.2 Integration with respect to θ 32
+        2.2.3 Parity 32
+    2.3 Fine structure 34
+        2.3.1 Spin of the electron 35
+        2.3.2 The spin–orbit interaction 36
+        2.3.3 The fine structure of hydrogen 38
+        2.3.4 The Lamb shift 40
+        2.3.5 Transitions between fine-structure levels 41
+    Further reading 42
+    Exercises 42
+3 Helium 45
+    3.1 The ground state of helium 45
+    3.2 Excited states of helium 46
+        3.2.1 Spin eigenstates 51
+        3.2.2 Transitions in helium 52
+    3.3 Evaluation of the integrals in helium 53
+        3.3.1 Ground state 53
+        3.3.2 Excited states: the direct integral 54
+        3.3.3 Excited states: the exchange integral 55
+    Further reading 56
+    Exercises 58
+4 The alkalis 60
+    4.1 Shell structure and the periodic table 60
+    4.2 The quantum defect 61
+    4.3 The central-field approximation 64
+    4.4 Numerical solution of the Schr¨ odinger equation 68
+        4.4.1 Self-consistent solutions 70
+    4.5 The spin–orbit interaction: a quantum mechanical approach 71
+    4.6 Fine structure in the alkalis 73
+        4.6.1 Relative intensities of fine-structure transitions 74
+    Further reading 75
+    Exercises 76
+5 The LS-coupling scheme 80
+    5.1 Fine structure in the LS-coupling scheme 83
+    5.2 The jj-coupling scheme 84
+    5.3 Intermediate coupling: the transition between coupling schemes 86
+    5.4 Selection rules in the LS-coupling scheme 90
+    5.5 The Zeeman effect 90
+    5.6 Summary 93
+    Further reading 94
+    Exercises 94
+6 Hyperfine structure and isotope shift 97
+    6.1 Hyperfine structure 97
+        6.1.1 Hyperfine structure for s-electrons 97
+        6.1.2 Hydrogen maser 100
+        6.1.3 Hyperfine structure for l ∕= 0 101
+        6.1.4 Comparison of hyperfine and fine structures 102
+    6.2 Isotope shift 105
+        6.2.1 Mass effects 105
+        6.2.2 Volume shift 106
+        6.2.3 Nuclear information from atoms 108
+    6.3 Zeeman effect and hyperfine structure 108
+        6.3.1 Zeeman effect of a weak field, µBB < A 109
+        6.3.2 Zeeman effect of a strong field, µBB > A 110
+        6.3.3 Intermediate field strength 111
+    6.4 Measurement of hyperfine structure 112
+        6.4.1 The atomic-beam technique 114
+        6.4.2 Atomic clocks 118
+    Further reading 119
+    Exercises 120
+7 The interaction of atoms with radiation 123
+    7.1 Setting up the equations 123
+        7.1.1 Perturbation by an oscillating electric field 124
+        7.1.2 The rotating-wave approximation 125
+    7.2 The Einstein B coefficients 126
+    7.3 Interaction with monochromatic radiation 127
+        7.3.1 The concepts of π-pulses and π/2-pulses 128
+        7.3.2 The Bloch vector and Bloch sphere 128
+    7.4 Ramsey fringes 132
+    7.5 Radiative damping 134
+        7.5.1 The damping of a classical dipole 135
+        7.5.2 The optical Bloch equations 137
+    7.6 The optical absorption cross-section 138
+        7.6.1 Cross-section for pure radiative broadening 141
+        7.6.2 The saturation intensity 142
+        7.6.3 Power broadening 143
+    7.7 The a.c. Stark effect or light shift 144
+    7.8 Comment on semiclassical theory 145
+    7.9 Conclusions 146
+    Further reading 147
+    Exercises 148
+8 Doppler-free laser spectroscopy 151
+    8.1 Doppler broadening of spectral lines 151
+    8.2 The crossed-beam method 153
+    8.3 Saturated absorption spectroscopy 155
+        8.3.1 Principle of saturated absorption spectroscopy 156
+        8.3.2 Cross-over resonances in saturation spectroscopy 159
+    8.4 Two-photon spectroscopy 163
+    8.5 Calibration in laser spectroscopy 168
+        8.5.1 Calibration of the relative frequency 168
+        8.5.2 Absolute calibration 169
+        8.5.3 Optical frequency combs 171
+    Further reading 175
+    Exercises 175
+9 Laser cooling and trapping 178
+    9.1 The scattering force 179
+    9.2 Slowing an atomic beam 182
+        9.2.1 Chirp cooling 184
+    9.3 The optical molasses technique 185
+        9.3.1 The Doppler cooling limit 188
+    9.4 The magneto-optical trap 190
+    9.5 Introduction to the dipole force 194
+    9.6 Theory of the dipole force 197
+        9.6.1 Optical lattice 201
+    9.7 The Sisyphus cooling technique 203
+        9.7.1 General remarks 203
+        9.7.2 Detailed description of Sisyphus cooling 204
+        9.7.3 Limit of the Sisyphus cooling mechanism 207
+    9.8 Raman transitions 208
+        9.8.1 Velocity selection by Raman transitions 208
+        9.8.2 Raman cooling 210
+    9.9 An atomic fountain 211
+    9.10 Conclusions 213
+    Exercises 214
+10 Magnetic trapping, evaporative cooling and Bose–Einstein condensation 218
+    10.1 Principle of magnetic trapping 218
+    10.2 Magnetic trapping 220
+        10.2.1 Confinement in the radial direction 220
+        10.2.2 Confinement in the axial direction 221
+    10.3 Evaporative cooling 224
+    10.4 Bose–Einstein condensation 226
+    10.5 Bose–Einstein condensation in trapped atomic vapours 228
+        10.5.1 The scattering length 229
+    10.6 A Bose–Einstein condensate 234
+    10.7 Properties of Bose-condensed gases 239
+        10.7.1 Speed of sound 239
+        10.7.2 Healing length 240
+        10.7.3 The coherence of a Bose–Einstein condensate 240
+        10.7.4 The atom laser 242
+    10.8 Conclusions 242
+    Exercises 243
+11 Atom interferometry 246
+    11.1 Young’s double-slit experiment 247
+    11.2 A diffraction grating for atoms 249
+    11.3 The three-grating interferometer 251
+    11.4 Measurement of rotation 251
+    11.5 The diffraction of atoms by light 253
+        11.5.1 Interferometry with Raman transitions 255
+    11.6 Conclusions 257
+    Further reading 258
+    Exercises 258
+12 Ion traps 259
+    12.1 The force on ions in an electric field 259
+    12.2 Earnshaw’s theorem 260
+    12.3 The Paul trap 261
+        12.3.1 Equilibrium of a ball on a rotating saddle 262
+        12.3.2 The effective potential in an a.c. field 262
+        12.3.3 The linear Paul trap 262
+    12.4 Buffer gas cooling 266
+    12.5 Laser cooling of trapped ions 267
+    12.6 Quantum jumps 269
+    12.7 The Penning trap and the Paul trap 271
+        12.7.1 The Penning trap 272
+        12.7.2 Mass spectroscopy of ions 274
+        12.7.3 The anomalous magnetic moment of the electron 274
+    12.8 Electron beam ion trap 275
+    12.9 Resolved sideband cooling 277
+    12.10 Summary of ion traps 279
+    Further reading 279
+    Exercises 280
+13 Quantum computing 282
+    13.1 Qubits and their properties 283
+        13.1.1 Entanglement 284
+    13.2 A quantum logic gate 287
+        13.2.1 Making a CNOT gate 287
+    13.3 Parallelism in quantum computing 289
+    13.4 Summary of quantum computers 291
+    13.5 Decoherence and quantum error correction 291
+    13.6 Conclusion 293
+    Further reading 294
+    Exercises 294
+Appendix A: Perturbation theory 298
+    A.1 Mathematics of perturbation theory 298
+    A.2 Interaction of classical oscillators of similar frequencies 299
+Appendix B: The calculation of electrostatic energies 302
+Appendix C: Magnetic dipole transitions 305
+Appendix D: The line shape in saturated absorption spectroscopy 307
+Appendix E: Raman and two-photon transitions 310
+    E.1 Raman transitions 310
+    E.2 Two-photon transitions 313
+Appendix F: The statistical mechanics of Bose–Einstein condensation 315
+    F.1 The statistical mechanics of photons 315
+    F.2 Bose–Einstein condensation 316
+    F.2.1 Bose–Einstein condensation in a harmonic trap 318
+References 319
+Index 326
